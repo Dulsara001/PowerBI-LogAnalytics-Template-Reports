@@ -1,3 +1,5 @@
+*Request - Can this be made with inremental refresh so that the users can publish it to the Power BI portal and montior the metrics over time?
+
 # Fabric Log Analytics for Analysis Services Engine report template
 
 This template adds the model layer to the ocean of the Analysis Services engine trace events and enables you to go from data to insight to action quickly.
